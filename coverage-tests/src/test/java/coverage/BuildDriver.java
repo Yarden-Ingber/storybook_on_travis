@@ -27,7 +27,7 @@ public class BuildDriver {
     private final String SELENIUM_CHROME_URL = "http://localhost:4444/wd/hub";
     private final String SELENIUM_FIREFOX_URL = "http://localhost:4445/wd/hub";
     private final String SAUCE_URL = "https://ondemand.saucelabs.com:443/wd/hub";
-    private final String API_KEY = "cbAeZR3SjD9h3bBxerVY6d5TMjmhdvyF";
+    private final String API_KEY = 'cbAeZR3SjD9h3bBxerVY6d5TMjmhdvyF';
     
 
     public WebDriver getDriver() {
